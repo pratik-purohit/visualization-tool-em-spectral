@@ -43,9 +43,7 @@ This tool is accessible as a MATLAB App, providing a convenient and interactive 
 - **MATLAB Version**: Ensure you have MATLAB installed (version 2020a or later recommended).
 - **File Format**: The tool is compatible with the MRC file format, a common format for storing EM image data.
 
-## Contributions
 
-If you'd like to contribute to this project, please fork the repository, create a new branch, and submit a pull request with your changes. All contributions are welcome!
 
 ## Contributors
 Pratik Purohit, Partha Mitra (CSHL), Harald Hess (Janelis Research Campus, HHMI)
