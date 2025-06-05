@@ -45,6 +45,6 @@ This tool is accessible as a MATLAB App, providing a convenient and interactive 
 
 If you'd like to contribute to this project, please fork the repository, create a new branch, and submit a pull request with your changes. All contributions are welcome!
 
-## License
+## Contributors
+Pratik Purohit, Partha Mitra (CSHL), Harald Hess (Janelis Research Campus, HHMI)
 
-This project is licensed under the [MIT License](LICENSE).
