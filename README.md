@@ -14,6 +14,8 @@ This tool is accessible as a MATLAB App, providing a convenient and interactive 
    - Navigate to the **Apps** section in MATLAB.
    - Click **Install App** and select the downloaded setup file to install the tool.
 
+![Steps to use the tool](images/screenshot.png)
+
 ## Key Features
 
 - **Visualize 2D Planes**: 
