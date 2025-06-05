@@ -1,4 +1,4 @@
-# Spectral Information Exploration Tool (MATLAB App)
+# Spectral Information Exploration Tool
 
 ## Overview
 
